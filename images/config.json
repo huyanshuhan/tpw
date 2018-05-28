@@ -1,0 +1,12 @@
+{ 
+    "threads":3,                                 // number of miner threads
+    "pools": [
+        {
+            "url": "stratum+tcp://backup-pool.ulorders.com:13333",                // URL of mining server
+            "user": "UX1p97pemKAeHDeEdNgsRMjBZtLSC2bGEE",   // username for mining server 
+            "pass": "x"                                            // password for mining server
+                                                        
+        }
+    ]                
+ 
+}
